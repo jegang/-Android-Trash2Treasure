@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#E43F3F</color>
+    <color name="primary_dark">#E12929</color>
+    <color name="primary_darker1">#CC1D1D</color>
+    <color name="primary_darker">#000000</color>
+    <color name="accent">#ffffff</color>
+
+    <color name="black">#000000</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="colorPrimary">#37474f</color>
+    <color name="colorPrimaryDark">#263238</color>
+    <color name="windowBackground">#BDBDBD</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="navigationBarColor">#004D40</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorPrimary2">#D84315</color>
+    <color name="colorPrimaryDark2">#BF360C</color>
+    <color name="windowBackground2">#fbe9e7</color>
+    <color name="textColorPrimary2">#000000</color>
+    <color name="navigationBarColor2">#bf360c</color>
+    <color name="buttonBackground2">#ffccbc</color>
+
+    <color name="colorPrimary3">#00695C</color>
+    <color name="colorPrimaryDark3">#004d40</color>
+    <color name="windowBackground3">#E0F2F1</color>
+    <color name="textColorPrimary3">#000000</color>
+    <color name="navigationBarColor3">#263238</color>
+    <color name="buttonBackground3">#CFD8DC</color>
+
+
+    <color name="colorPrimary6">#00838F</color>
+    <color name="colorPrimaryDark6">#006064</color>
+    <color name="windowBackground6">#B2EBF2</color>
+    <color name="textColorPrimary6">#000000</color>
+    <color name="navigationBarColor6">#006064</color>
+    <color name="buttonBackground6">#00B8D4</color>
+
+    <color name="calcDisplayTextColor">#000000</color>
+    <color name="calcDisplayColor">#eceff1</color>
+    <color name="colorPrimary5">#4CAF50</color>
+    <color name="colorPrimaryDark5">#1B5E20</color>
+    <color name="windowBackground5">#C8E6C9</color>
+    <color name="textColorPrimary5">#0622f9</color>
+    <color name="navigationBarColor5">#1b5e20</color>
+
+
+    !-- Fingerprint related information
+    <color name="textPrimaryDark">#95aab4</color>
+    <color name="errorText">#ff7878</color>
+    <color name="textPrimary">#f5f5f5</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#a854d4</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen4">#e4b5fc</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+</resources>

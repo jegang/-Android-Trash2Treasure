@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "195264473973",
+    "firebase_url": "https://trashtotreasure-a797f.firebaseio.com",
+    "project_id": "trashtotreasure-a797f",
+    "storage_bucket": "trashtotreasure-a797f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195264473973:android:7a7757c67cb5e3e5",
+        "android_client_info": {
+          "package_name": "edu.syr.jgopalak.trashtotreasure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195264473973-03t18judv2nr1ea24j6leot2ucfck5m3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.syr.jgopalak.trashtotreasure",
+            "certificate_hash": "fc8071737745dbb867960b62822bbbeaf616e220"
+          }
+        },
+        {
+          "client_id": "195264473973-kbd98squl0953hrk8a38qoo0fp6meuja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSPpnzWDexveQSES-PSElDwrtoLqIggsY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195264473973-kbd98squl0953hrk8a38qoo0fp6meuja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

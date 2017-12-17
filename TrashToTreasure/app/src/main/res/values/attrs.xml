@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="DoubleText">
+        <attr name="leftText" format="string" />
+        <attr name="rightText" format="string" />
+        <attr name="android:ems" />
+
+    </declare-styleable>
+</resources>

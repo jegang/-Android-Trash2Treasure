@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/menu_profilepage">
+    <item
+        android:id="@+id/menu_user_editprofile"
+        android:title="Edit Profile" />
+
+    <item
+        android:id="@+id/menu_user_logout"
+        android:title="Logout" />
+    </group>
+
+    <group android:id="@+id/menu_editprofile">
+        <item
+            android:id="@+id/menu_gotoprofile"
+            android:title="User Profile" />
+
+        <item
+            android:id="@+id/menu_usr_logout"
+            android:title="Logout" />
+    </group>
+
+</menu>

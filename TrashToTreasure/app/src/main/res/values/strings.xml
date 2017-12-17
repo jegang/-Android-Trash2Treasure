@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Trash 2 Treasure</string>
+    <string name="btn_link_to_register">Register</string>
+    <string name="btn_forgot_password">Forgot Password</string>
+    <string name="btn_login">Login</string>
+    <string name="hint_email">Type Your Email</string>
+    <string name="hint_password">Password</string>
+    <string name="minimum_password">Minimum Password</string>
+    <string name="auth_failed">Authentication Failed!!</string>
+    <string name="Signon">SIGN ON</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    !-- Fingerprint login related information
+    <string name="title_fingerprint">Verify Account Owner </string>
+    <string name="desc_fingerprint">Please place your fingertip on the scanner to verify your identity</string>
+    <string name="note">(Fingerprint veification proves you are not ROBOT and unique user. Your device should have at least one fingerprint registered in device settings)</string>
+    <string name="title_activity_home">Fingerprint</string>
+    <string name="activity_home_desc">You have successfully Posted your ITEM with fingerprint authentication</string>
+    <string name="activity_home_note">l</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="action_contact">Contact Owner</string>
+    <string name="action_share">Share It</string>
+    <string name="backdrop_title">TRASH 2 TREASURE</string>
+    <string name="backdrop_subtitle">One Man\'s trash is another Man\'s Treasure</string>
+
+    <string-array name="category_arrays">
+        <item>Electronics</item>
+        <item>KitchenHolds</item>
+        <item>Clothes</item>
+        <item>Stationary</item>
+        <item>Households</item>
+        <item>Other</item>
+    </string-array>
+    <string name="spinnerdescription">Please select the Category</string>
+
+    !-- maps related strings
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyC87aGdCWYQ-VivMXwVB-U4zeNJBj7XbIA</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    !-- Voice to Text
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">DONE</string>
+
+    <string name="slide_1_title">Trash To Treasure</string>
+    <string name="slide_1_desc">Why to throw the useless item to thrash when someone is in need of it !!</string>
+
+    <string name="slide_2_title">Get Your Needy Items</string>
+    <string name="slide_2_desc">From our app you call, reach the item provider in nick of seconds</string>
+
+    <string name="slide_3_title">Help your FRIENDS</string>
+    <string name="slide_3_desc">Share the item that your friends/family is in need of!!</string>
+
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    !-- shortcuts
+    <string name="compose_shortcut_short_label1">Get Developers Info&#8230;</string>
+    <string name="compose_shortcut_long_label1">Get Developers Info&#8230;</string>
+    <string name="compose_disabled_message1">Get Developers Info&#8230;</string>
+    <string name="title_activity_about_me_activity">AboutMeActivity</string>
+
+</resources>
