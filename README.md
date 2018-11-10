@@ -5,3 +5,7 @@ Our Application is based on the famous quote "One man's trash is another man's t
 
 # PlayStore Link for the app:
 https://play.google.com/store/apps/details?id=edu.syr.jgopalak.trashtotreasure
+
+# Authors
+[Jegan Gopalakrishnan| https://www.linkedin.com/in/jegang/]
+[Sathesh Balakrishnan Manohar|https://www.linkedin.com/in/satheshbalakrishnanmanohar/]
